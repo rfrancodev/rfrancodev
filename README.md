@@ -2,7 +2,7 @@
 ## Olá, eu sou o Franco! 👋
 
 
-### 🚀 Sobre mim
+### 🚀 Carreira
 Eu sou um desenvolvedor Javascript Back-end e Mobile iOS. 
 
 
