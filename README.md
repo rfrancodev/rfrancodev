@@ -15,6 +15,7 @@ Desenvolvedor Backend | JavaScript | TypeScript
 
 ### Um pouco sobre mim
 Experiencia com Nodejs, Banco de dados, SQL, Postgres, NestJS, Express, Insomnia e GitHub.
+Conhecimento em HTML, CSS e Swift
 
 👩‍💻 Criação de sistemas, Apis e aplicativos. Foco principal no backend.
 
