@@ -3,7 +3,7 @@
 
 
 ### 🚀 Carreira
-Eu sou um desenvolvedor Javascript Back-end e Mobile iOS. 
+Desenvolvedor Back-end e Mobile. 
 
 
 ### 🔗 Links
