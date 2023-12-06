@@ -3,7 +3,7 @@
 
 
 ### 🚀 Carreira
-Desenvolvedor Backend. 
+Desenvolvedor Backend | JavaScript | TypeScript
 
 
 ### 🔗 Links
