@@ -20,7 +20,7 @@ Conhecimento em HTML, CSS e Swift
 
 👩‍💻 Criação de sistemas, Apis e aplicativos. Foco principal no backend.
 
-🧠 Procuro projetos interessantes que estimulem a criatividade.
+🧠 Matando um bug por dia. Procuro projetos interessantes.
 
 💬 Sou curioso e gosto de saber das coisas e como o mundo funciona. Depois de criar meu primeiro site percebi o quanto isso me fazia feliz.
 
