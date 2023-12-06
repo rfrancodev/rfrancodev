@@ -14,13 +14,13 @@ Desenvolvedor Backend.
 
 
 ### Um pouco sobre mim
-Estou em transição de carreira. Depois de criar meu primeiro site percebi o quanto isso me fazia feliz.
+Experiencia com Nodejs, Banco de dados, SQL, Postgres, NestJS, Express, Insomnia e GitHub.
 
 👩‍💻 Criação de sistemas, Apis e aplicativos. Foco principal no backend.
 
 🧠 Procuro projetos interessantes que estimulem a criatividade.
 
-💬 Sou curioso e gosto de saber das coisas e como o mundo funciona
+💬 Sou curioso e gosto de saber das coisas e como o mundo funciona. Depois de criar meu primeiro site percebi o quanto isso me fazia feliz.
 
 
 
