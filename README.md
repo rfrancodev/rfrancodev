@@ -3,7 +3,7 @@
 
 
 ### 🚀 Carreira
-Desenvolvedor Back-end e Mobile. 
+Desenvolvedor Backend e Mobile. 
 
 
 ### 🔗 Links
@@ -14,14 +14,13 @@ Desenvolvedor Back-end e Mobile.
 
 
 ### Um pouco sobre mim
-👩‍💻 Estou em transição de carreira. Nunca é tarde para conquistar o que sempre sonhou.
+Estou em transição de carreira. Depois de criar meu primeiro site percebi o quanto isso me fazia feliz.
 
-🧠 Estou aprendendo desenvolvimento de softwear back-end e mobile.
-Depois de criar meu primeiro site percebi o quanto isso me fazia feliz.
+👩‍💻 Criação de sistemas, Apis e aplicativos. Foco principal no backend.
 
-🤩 Procuro projetos interessantes que estimulem a criatividade.
+🧠 Procuro projetos interessantes que estimulem a criatividade.
 
-💬 Me pergunte sobre qualquer assunto e sempreterei uma opinião. Sou curioso e gosto de saber das coisas e como o mundo funciona
+💬 Sou curioso e gosto de saber das coisas e como o mundo funciona
 
 
 
