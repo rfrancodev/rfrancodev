@@ -3,7 +3,7 @@
 
 
 ### 🚀 Carreira
-Desenvolvedor Backend e Mobile. 
+Desenvolvedor Backend. 
 
 
 ### 🔗 Links
