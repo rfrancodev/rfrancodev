@@ -4,6 +4,7 @@
 
 ### 🚀 Carreira
 Desenvolvedor Software | JavaScript - Banco de dados - Swift | FullStack
+
 Já criei Apis, sites e sistemas web. Recentemente estou criando aplicativos mobile iOS.
 
 ### Um pouco sobre mim
