@@ -1,29 +1,18 @@
 
-## Olá, eu sou o Franco! 👋
-
+## Eu sou o Franco! 👋
+💬 Commitando café, fazendo merge com o código e tentando não dar push nos bugs pra produção.
 
 ### 🚀 Carreira
-Desenvolvedor Backend | JavaScript | TypeScript
+Desenvolvedor Software | JavaScript - Banco de dados - Swift | FullStack
+Já criei Apis, sites e sistemas web. Recentemente estou criando aplicativos mobile iOS.
 
+### Um pouco sobre mim
+Criado no Rio de Janeiro eu troquei as praias pelas cachoeirras de Minas gerais. Gosto de novas experiencias e não tenho medo de desafios. Sou resiliente e persito até ver o resultado do que me propus a fazer. Tecnologia sempre foi uma paixão e foi na programação que me encontrei.
 
 ### 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafa-franco/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codefybr)
-
-
-
-### Um pouco sobre mim
-Experiencia com Nodejs, Banco de dados, SQL, Postgres, NestJS, Express, Insomnia e GitHub.
-
-Conhecimento em HTML, CSS e Swift
-
-👩‍💻 Criação de sistemas, Apis e aplicativos. Foco principal no backend.
-
-🧠 Matando um bug por dia. Procuro projetos interessantes.
-
-💬 Sou curioso e gosto de saber das coisas e como o mundo funciona. Depois de criar meu primeiro site percebi o quanto isso me fazia feliz.
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/franco_programador)
 
 
 ### 🛠 Linguagens
