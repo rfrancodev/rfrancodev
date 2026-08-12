@@ -4,10 +4,96 @@
 
 > **Software & Systems Developer | Backend · APIs · Automation · Data · Cloud**
 
-📍 Brazil | 🌐 [francorafael.com](https://francorafael.com)  
+📍 Brazil | 🌐 [francorafael.com](https://francorafael.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/rafa-franco/) · [GitHub](https://github.com/rfrancodev)
 
 ---
+
+<details open>
+<summary>🇧🇷 <b>Leia em Português (Clique para recolher)</b></summary>
+
+## 👨‍💻 Sobre Mim
+
+Desenvolvo soluções de software que conectam **aplicações, APIs, dados, automação e infraestrutura em nuvem**.
+
+Minha trajetória combina **desenvolvimento de software, suporte a aplicações e processos industriais**, com projetos práticos envolvendo desenvolvimento backend, APIs REST, PostgreSQL, Python, Node.js, JavaScript/TypeScript, Docker, Cloudflare e n8n.
+
+Gosto de resolver problemas práticos, entender como os sistemas funcionam de ponta a ponta e transformar processos manuais em soluções digitais confiáveis.
+
+### Principais Áreas
+
+- **Backend & APIs:** Python, Node.js, JavaScript/TypeScript, APIs REST, OpenAPI
+- **Bancos de Dados & Dados:** PostgreSQL, SQL, pgvector, SQLite, modelagem de dados
+- **Automação & Integração:** n8n, Webhooks, APIs, fluxos de trabalho orientados a eventos
+- **Nuvem & DevOps:** Docker, Linux, Cloudflare, Google Cloud Run, Oracle Cloud, Nginx
+- **IA & LLM:** Ollama, RAG, embeddings, pgvector, IA local
+- **Frontend:** React, Vite, Tailwind CSS, HTML/CSS
+- **Controle de Versão:** Git, GitHub
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🏆 IA, Sistemas & Full-Stack
+
+| Projeto | Stack | O que ele demonstra |
+|---|---|---|
+| [**vps-mundo-ia**](https://github.com/rfrancodev/vps-mundo-ia) | `Docker` `Ollama` `PostgreSQL` `pgvector` `n8n` `Nginx` `Cloudflare` `Oracle Cloud` | Plataforma de IA self-hosted com LLMs locais, RAG, automação, serviços Docker isolados, HTTPS e infraestrutura documentada. |
+| [**new-site-franco**](https://github.com/rfrancodev/new-site-franco) | `React` `Vite` `Express` `n8n` `Docker` `Google Cloud Run` | Portfólio full-stack com integração de API, processamento automatizado de leads e deploy em nuvem. |
+| [**semantiq-image**](https://github.com/rfrancodev/semantiq-image) | `FastAPI` `Python` `CLIP` `GPT-2` `PostgreSQL` `pgvector` `React` | Análise e busca semântica de imagens usando embeddings, descrições geradas por IA e similaridade vetorial. |
+| [**biolink-franco**](https://github.com/rfrancodev/biolink-franco) | `React` `Hono` `Cloudflare Workers` `KV` `Tailwind` | Aplicação serverless com autenticação, analytics e deploy no edge. |
+
+### ⚡ Automação, APIs & Integrações
+
+| Projeto | Stack | O que ele demonstra |
+|---|---|---|
+| [**auto-leads-api**](https://github.com/rfrancodev/auto-leads-api) | `Cloudflare Workers` `REST API` `OpenAPI` `Telegram` `Resend` `WhatsApp` | API serverless para captura de leads e fluxos de notificação multi-canal. |
+| [**leads-api-flavia**](https://github.com/rfrancodev/leads-api-flavia) | `Cloudflare Workers` `REST API` `Telegram` `Resend` | API orientada à produção implantada para o fluxo de trabalho de um cliente real. |
+| [**api-rest-nestjs**](https://github.com/rfrancodev/api-rest-nestjs) | `NestJS` `TypeScript` | API REST modular demonstrando controllers, módulos e injeção de dependência. |
+
+### 🔧 Sistemas de Gestão & Negócios
+
+| Projeto | Stack | O que ele demonstra |
+|---|---|---|
+| [**projeto-sghss**](https://github.com/rfrancodev/projeto-sghss) | `Node.js` `Express` `Sequelize` `SQLite` `JWT` `OpenAPI` | Sistema de gestão com controle de acesso baseado em funções (RBAC), autenticação, logs de auditoria e APIs documentadas. |
+| [**hamburgueria**](https://github.com/rfrancodev/hamburgueria) | `HTML` `CSS` `JavaScript` `Tailwind` `WhatsApp API` | Aplicação web com catálogo de produtos, carrinho e fluxo de pedidos integrado. |
+| [**cliente-marketing**](https://github.com/rfrancodev/cliente-marketing) | `TypeScript` `React` | Aplicação web profissional desenvolvida para um caso de uso de negócio real. |
+
+### 📱 iOS
+
+| Projeto | Stack | O que ele demonstra |
+|---|---|---|
+| [**Pinch**](https://github.com/rfrancodev/Pinch) | `Swift` `SwiftUI` `Xcode` | Aplicação iOS nativa com gestos e animações. |
+| [**Stickers**](https://github.com/rfrancodev/Stickers) | `Swift` `SwiftUI` `Xcode` | Aplicação iOS nativa para gerenciamento de figurinhas. |
+| [**Restart**](https://github.com/rfrancodev/Restart) | `Swift` `SwiftUI` `Xcode` | Aplicação iOS nativa com onboarding e padrões de UI reutilizáveis. |
+
+---
+
+## 🧪 Projeto Atual — Simulador de ERP Industrial
+
+Um projeto prático em desenvolvimento para simular a integração de **processos de produção industrial, qualidade e custos**, inspirado em conceitos de ERP utilizados em ambientes de manufatura.
+
+**Stack planejada:**
+`Python` · `PostgreSQL` · `HTML` · `JavaScript` · `Plotly`
+
+**Conceitos:**
+- Ordens de produção e de processo
+- Consumo de materiais
+- Inspeções de qualidade e não-conformidades
+- Perdas de produção e retrabalho
+- Custos planejados vs. reais
+- KPIs industriais
+- Integração de dados de produção, qualidade e custos
+- Dashboard HTML interativo
+
+O projeto foi desenhado para conectar minha experiência com **processos industriais e desenvolvimento de sistemas** em um único projeto de portfólio técnico.
+
+</details>
+
+---
+
+<details>
+<summary>🌐 <b>Read in English (Click to expand)</b></summary>
 
 ## 👨‍💻 About Me
 
@@ -71,11 +157,9 @@ I enjoy solving practical problems, understanding how systems work end-to-end an
 A hands-on project in development to simulate the integration of **industrial production, quality and cost processes**, inspired by ERP concepts used in manufacturing environments.
 
 **Planned stack:**
-
 `Python` · `PostgreSQL` · `HTML` · `JavaScript` · `Plotly`
 
 **Concepts:**
-
 - Production and process orders
 - Material consumption
 - Quality inspections and non-conformities
@@ -85,97 +169,3 @@ A hands-on project in development to simulate the integration of **industrial pr
 - Integration of production, quality and cost data
 - Interactive HTML dashboard
 
-The project is designed to connect my experience with **industrial processes and systems development** in a single technical portfolio project.
-
----
-
-## 🛠️ Technology Stack
-
-### Backend & Programming
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### APIs & Integration
-
-![REST](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapi-initiative&logoColor=white)
-![Webhooks](https://img.shields.io/badge/Webhooks-333333?style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Databases & Data
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Cloud & DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### AI & LLM
-
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
-![Embeddings](https://img.shields.io/badge/Embeddings-6C3483?style=for-the-badge)
-
-### Development Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
-
----
-
-## 💡 What I Build
-
-- **Backend APIs and integrations** using Python, Node.js and REST
-- **Web applications** with React and modern JavaScript/TypeScript
-- **Automation workflows** using n8n, Webhooks and APIs
-- **Data-driven applications** using PostgreSQL and SQL
-- **AI applications** with local LLMs, RAG and vector search
-- **Cloud and containerized environments** using Docker, Cloudflare and Linux
-- **Business and industrial systems** focused on process automation and operational data
-
----
-
-## 📈 Currently Learning
-
-- Python for backend development and data engineering
-- Software architecture and clean code
-- Automated testing
-- CI/CD and cloud deployment
-- SAP S/4HANA concepts and integration with industrial processes
-
----
-
-## 🔗 Contact
-
-[![Email](https://img.shields.io/badge/Email-rfrancodev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rfrancodev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rafa--franco-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafa-franco/)
-[![Website](https://img.shields.io/badge/Website-francorafael.com-4B32C4?style=for-the-badge&logo=safari&logoColor=white)](https://francorafael.com)
-
----
-
-<p align="center">
-  <em>Building systems, automating processes and turning ideas into software.</em>
-</p>
